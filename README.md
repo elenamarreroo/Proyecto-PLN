@@ -33,7 +33,7 @@ Este proyecto ha sido realizado por:
 - Moisés Barrios Torres
 - Cecilia Diana Albelda
 - Irina Filimonova Sevcenco
-- Elena Marrero Castellano.
+- Elena Marrero Castellano
 
 ## 📄 Licencia 
 
