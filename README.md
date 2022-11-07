@@ -25,6 +25,8 @@
 
 ## 👫👭 Equipazo:
 
+![trabajo-en-equipo-grupo-figurativo-de-equipo-de-trabajo](https://user-images.githubusercontent.com/98991004/200295122-6048a7dd-3013-4ff9-92e9-75726e0e2d80.jpg)
+
 Proyecto realizado por Moisés Barrios Torres, Cecilia Diana Albelda, Irina Filimonova Sevcenco y yo, Elena Marrero Castellano.
 
 ## 📄 Licencia 
