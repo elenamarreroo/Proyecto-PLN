@@ -22,13 +22,11 @@
 
 - Carpeta "html" que contiene las dos partes del proyecto en formato html.
 
-
 ## 👫👭 Equipazo:
 
 <img src="https://user-images.githubusercontent.com/98991004/200295122-6048a7dd-3013-4ff9-92e9-75726e0e2d80.jpg" align="right" width="300" height="200">
 
 Este proyecto ha sido realizado por: 
-
 
 - Moisés Barrios Torres
 - Cecilia Diana Albelda
